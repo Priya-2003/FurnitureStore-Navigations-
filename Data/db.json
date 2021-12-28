@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Product is good",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Qualtiy is not good",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "sometime app crash",
+      "body": "lorem ipsum...",
+      "author": "priya",
+      "id": 3
+    },
+    {
+      "title": "Not usefull",
+      "body": "lorem ipsum...",
+      "author": "john",
+      "id": 4
+    }
+  ]
+}
